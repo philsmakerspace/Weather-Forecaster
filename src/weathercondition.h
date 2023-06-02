@@ -1,0 +1,14 @@
+#ifndef WEATHERCONDITION
+#define WEATHERCONDITION
+
+enum class WeatherCondition
+{
+    NOT_ENOUGH_DATA,
+    CLEARING,
+    DETERIORATING,
+    STABLE_CLEAR,
+    STABLE_CLOUDY,
+    STABLE
+};
+
+#endif

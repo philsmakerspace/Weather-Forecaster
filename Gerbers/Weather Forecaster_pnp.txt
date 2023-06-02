@@ -1,0 +1,21 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=Weather Forecaster
+*Date=17:11:30
+*CreatedBy=Fritzing 0.9.10b.2022-07-01.CD-2134-0-40d23c29
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;;33.2114;-22.6763;90;Bottom;ESP32
+2;;;49.1744;-55.4476;0;Bottom;TXT1
+3;;;50.3693;-51.6164;0;Bottom;TXT1
+4;;;67.542;-25.9817;0;Bottom;OLED
+5;;THT;56.0979;-5.73578;0;Bottom;Power
+6;;;9.093;-35.2758;0;Bottom;Part1
