@@ -1,4 +1,4 @@
-# Weather-Forecaster
+# Make Along With Phil EP1 - Weather Forecaster
 
 Join me in this exciting 'Make Along With Me' series as we dive into the world of DIY electronics and 3D printing! In our first episode, we're building a DIY Weather Forecaster using an ESP32 board, a BMP280 sensor, a CNC 3018, and a 3D printed case.
 
